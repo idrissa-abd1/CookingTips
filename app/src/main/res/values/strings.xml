@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">7 Days Of Cooking Tips</string>
+    <!-- Day 1 -->
+    <string name="day_1">Day 1</string>
+    <string name="dish_1">Hearty Chickpea &amp; Spinach Stew</string>
+    <string name="description_1">This satisfying stew comes together in a snap. Mashed chickpeas add body to the broth, and tomato paste adds a savory note without adding too much sodium in this healthy recipe for weight loss.</string>
+
+    <!-- Day 2 -->
+    <string name="day_2">Day 2</string>
+    <string name="dish_2">Salmon Caesar Salad</string>
+    <string name="description_2">This easy Caesar salad subs creamy Greek yogurt and buttermilk for the traditional egg yolks and olive oil and mixes in mildly bitter radicchio in addition to classic romaine. Using just a small amount of flavorful Parmigiano-Reggiano shaves calories and sodium too.</string>
+
+    <!-- Day 3 -->
+    <string name="day_3">Day 3</string>
+    <string name="dish_3">Black Bean Salad with Grilled Pork Cutlets</string>
+    <string name="description_3">This hearty bean salad is packed with vibrant colors and contrasting textures. Center-cut boneless pork chops (also called pork cutlets) make a convenient and economical protein to round out the meal. This recipe makes one extra cutlet, which can be refrigerated for another use.</string>
+
+    <!-- Day 4 -->
+    <string name="day_4">Day 4</string>
+    <string name="dish_4">Roasted Salmon Caprese</string>
+    <string name="description_4">This oven-ready recipe is snap to prep. Salmon fillets and cherry tomatoes roast side by side on one pan, then they are drizzled with balsamic glaze to pull it all together.</string>
+
+    <!-- Day 5 -->
+    <string name="day_5">Day 5</string>
+    <string name="dish_5">Healthy Detox Salad</string>
+    <string name="description_5">Skip the cleanse and eat this instead. Packed with veggies, avocado and seeds, this healthy salad recipe is bursting with vitamins, minerals and antioxidants. Everything can be prepared ahead of time except the avocado. If you love beets, shred one raw and add it to the salad for extra color, crunch and flavor.</string>
+
+    <!-- Day 6 -->
+    <string name="day_6">Day 6</string>
+    <string name="dish_6">Zucchini, Corn &amp; Egg Casserole</string>
+    <string name="description_6">This healthy casserole is essentially a crustless quiche brimming with fresh summer vegetables. Bake it up for an elegant summer brunch or a casual backyard barbecue.</string>
+
+    <!-- Day 7 -->
+    <string name="day_7">Day 7</string>
+    <string name="dish_7">Chicken with Spinach &amp; Tomato Orzo Salad</string>
+    <string name="description_7">Baked chicken breasts cook in the oven while you mix together a Mediterranean-inspired salad—packed with veggies, whole-wheat orzo and an easy homemade vinaigrette—for a weekend-worthy dinner on the table in under an hour. The leftovers from this healthy 400-calorie meal make a delicious packable lunch for the next day.</string>
+</resources>
